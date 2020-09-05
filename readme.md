@@ -1,0 +1,6 @@
+# Sessions
+
+1. HTTP BASE
+2. HTML BASE
+3. BOOTSTRAP
+4. GIT + ...
