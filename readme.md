@@ -7,7 +7,7 @@
 5. GIT + PIPENV + DJANGO  
 6. Same as prev.  
 7. DJANGO + ORM  
-8.
+8. DATABASE + PICKLE + JSON  
 
 # Homework
 
@@ -16,3 +16,4 @@
 5. Bring up a login form by django and show the entered username and password after submit by django  
 6. It was just same as the last HW but you failed  
 7. Create a Login/Register Page, fully functional and beautiful  
+8. Fix json code and beautify the page using bootstrap grids  
