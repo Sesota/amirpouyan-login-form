@@ -8,6 +8,7 @@
 6. Same as prev.  
 7. DJANGO + ORM  
 8. DATABASE + PICKLE + JSON  
+9. REST API, FRONT + BACK  
 
 # Homework
 
@@ -17,3 +18,4 @@
 6. It was just same as the last HW but you failed  
 7. Create a Login/Register Page, fully functional and beautiful  
 8. Fix json code and beautify the page using bootstrap grids  
+9. Develop login form using rest api  
